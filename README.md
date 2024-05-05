@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KARTHICK T K</h1>
+<h1 align="center">Hi 👋, I'm KARTHICK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img aliign="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2iBCsGCgR64_UnOQA8rj7Fe_EGa4_eQXkw&usqp=CAU">
 
